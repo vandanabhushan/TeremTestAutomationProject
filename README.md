@@ -20,10 +20,14 @@ Execute Scripts in Local:
 >npx codeceptjs run --debug // to debug the steps
 
 -	To Execute and view execution report
-o	Install Allure - on command prompt type 
+	Install Allure - on command prompt type 
 	>npm install -g allure-commandline --save-dev
 
 -	Execute scripts with Allure
-o	>npx codeceptjs run --plugins allure
+	>npx codeceptjs run --plugins allure
 -	View Report
-o	>allure serve output
+	>allure serve output
+
+To open the mind map:
+The mind map included in the documentation folder need xmind software app to view.
+(mind maps helps to pictorially view the details instead of long word documents)
