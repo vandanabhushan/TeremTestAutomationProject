@@ -8,9 +8,7 @@ Open a command prompt and type >npm install --save-dev codeceptjs
 -	Install Puppeteer
 	On the command prompt type >npm install codeceptjs puppeteer -save
 - Clone the repo from git
-
-
-
+https://github.com/vandanabhushan/TeremTestAutomationProject.git
 
 Execute Scripts in Local:
 
